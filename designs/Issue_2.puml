@@ -1,0 +1,128 @@
+@startuml
+@startuml User Login System
+
+' Define the classes with attributes and methods
+class APIApplication {
+  -port: INT
+  -secretKey: String
+  +start(): void
+  +registerEndpoint(endpoint: String, handler: Function): void
+}
+
+class UserManager {
+  +registerUser(username: String, email: String, password: String): User
+  +loginUser(username: String, password: String): String
+  -validateInput(req: Request): ValidationError[]
+}
+
+class AuthenticationMiddleware {
+  +authenticateToken(req: Request, res: Response, next: Function): void
+}
+
+class TokenService {
+  -secretKey: String
+  +signToken(payload: Object, expiresIn: String): String
+  +verifyToken(token: String): Object
+}
+
+class PasswordService {
+  -saltRounds: INT
+  +hashPassword(password: String): String
+  +comparePassword(password: String, hash: String): Boolean
+}
+
+class User {
+  -user_id: INT
+  -username: String
+  -email: String
+  -password_hash: String
+  -created_at: TIMESTAMP
+}
+
+class DataSource {
+  +saveUser(user: User): User
+  +findUserByUsername(username: String): User
+}
+
+class ValidationError {
+  -field: String
+  -message: String
+}
+
+' Define relationships
+APIApplication "1" -- "1" UserManager : "uses"
+APIApplication "1" -- "1" AuthenticationMiddleware : "uses"
+UserManager "1" -- "1" TokenService : "generates tokens via"
+UserManager "1" -- "1" PasswordService : "secures passwords via"
+UserManager "1" -- "1" DataSource : "interacts with"
+UserManager "1" -- "0..*" ValidationError : "returns on invalid input"
+AuthenticationMiddleware "1" -- "1" TokenService : "verifies tokens via"
+DataSource "1" -- "0..*" User : "manages"
+
+' Notes for clarity
+note right of APIApplication
+  Represents the API server (e.g., Express app).
+  Hosts /api/register, /api/login, /api/profile.
+end note
+
+note right of UserManager
+  Handles registration and login logic.
+  Validates inputs and manages credentials.
+end note
+
+note right of AuthenticationMiddleware
+  Protects routes by verifying JWT tokens.
+end note
+
+note right of TokenService
+  Manages JWT creation and verification.
+  Uses secret key and expiration (e.g., 1h).
+end note
+
+note right of PasswordService
+  Hashes passwords with bcrypt for security.
+end note
+
+note right of User
+  Data model for users stored in the database.
+end note
+
+note right of DataSource
+  Abstracts database operations for users.
+end note
+
+note right of ValidationError
+  Details validation failures (e.g., "Password too short").
+end note
+
+@enduml
+Explanation of the PlantUML Code:
+Classes:
+APIApplication: Represents the API server (e.g., Express app) that hosts endpoints and integrates the login system.
+UserManager: Manages user registration and login, including input validation and credential handling.
+AuthenticationMiddleware: Verifies JWT tokens to protect routes.
+TokenService: Handles JWT creation and verification (e.g., using jsonwebtoken).
+PasswordService: Secures passwords with hashing and comparison (e.g., using bcrypt).
+User: Represents the user entity stored in the database.
+DataSource: Abstracts database operations for storing and retrieving users.
+ValidationError: Represents validation errors returned for invalid inputs.
+Attributes and Methods:
+Attributes are private (-), and methods are public (+), per UML conventions.
+UserManager includes methods for registration and login, with validation logic.
+TokenService and PasswordService encapsulate security-related operations.
+Relationships:
+APIApplication "1" -- "1" UserManager: The API uses UserManager for login/registration endpoints.
+APIApplication "1" -- "1" AuthenticationMiddleware: The API uses middleware to secure routes.
+UserManager "1" -- "1" TokenService: Generates JWT tokens for successful logins.
+UserManager "1" -- "1" PasswordService: Hashes and verifies passwords.
+UserManager "1" -- "1" DataSource: Interacts with the database to store/retrieve users.
+UserManager "1" -- "0..*" ValidationError: Returns errors for invalid inputs.
+AuthenticationMiddleware "1" -- "1" TokenService: Verifies tokens for protected routes.
+DataSource "1" -- "0..*" User: Manages multiple user records.
+Notes: Provide context for each class’s role in the user login system.
+Notes on the Diagram:
+The diagram focuses on the server-side login system with JWT and password hashing, as per the analysis.
+It abstracts libraries (e.g., jsonwebtoken, bcrypt, express-validator) into conceptual classes (TokenService, PasswordService, etc.).
+Logout is not explicitly modeled, as it’s client-side with JWT (discard token), though a blacklist could be added as an extension.
+You can render this code in a PlantUML tool to visualize the class diagram. If you’d like refinements (e.g., adding logout logic, specific database details, or UI integration), let me know!
+@enduml

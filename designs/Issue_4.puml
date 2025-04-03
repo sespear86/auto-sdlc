@@ -1,0 +1,89 @@
+@startuml
+@startuml Blog Database Schema
+
+' Define the classes with attributes
+class Users {
+  -user_id: INT <<PK>>
+  -username: VARCHAR(50) <<unique>>
+  -email: VARCHAR(100) <<unique>>
+  -password_hash: VARCHAR(255)
+  -created_at: TIMESTAMP
+}
+
+class Posts {
+  -post_id: INT <<PK>>
+  -user_id: INT <<FK>>
+  -title: VARCHAR(200)
+  -content: TEXT
+  -created_at: TIMESTAMP
+  -updated_at: TIMESTAMP
+  -status: ENUM(draft, published)
+}
+
+class Categories {
+  -category_id: INT <<PK>>
+  -name: VARCHAR(50) <<unique>>
+  -description: TEXT
+}
+
+class Post_Categories {
+  -post_id: INT <<FK, PK>>
+  -category_id: INT <<FK, PK>>
+}
+
+class Comments {
+  -comment_id: INT <<PK>>
+  -post_id: INT <<FK>>
+  -user_id: INT <<FK>>
+  -content: TEXT
+  -created_at: TIMESTAMP
+}
+
+' Define relationships
+Users "1" -- "0..*" Posts : "writes"
+Users "1" -- "0..*" Comments : "writes"
+Posts "1" -- "0..*" Comments : "receives"
+Posts "0..*" -- "0..*" Categories : "categorized by" #..# Post_Categories
+
+' Add notes for clarity
+note right of Users
+  Primary Key: user_id
+  Foreign Key constraints:
+  - ON DELETE CASCADE in Posts, Comments
+end note
+
+note right of Posts
+  Primary Key: post_id
+  Foreign Key: user_id references Users
+end note
+
+note right of Categories
+  Primary Key: category_id
+end note
+
+note right of Post_Categories
+  Composite Primary Key: (post_id, category_id)
+  Foreign Keys:
+  - post_id references Posts
+  - category_id references Categories
+end note
+
+note right of Comments
+  Primary Key: comment_id
+  Foreign Keys:
+  - post_id references Posts
+  - user_id references Users
+end note
+
+@enduml
+Explanation of the PlantUML Code:
+Classes: Each entity (Users, Posts, Categories, Post_Categories, Comments) is represented as a class with its attributes. Data types and constraints (e.g., <<PK>> for primary key, <<FK>> for foreign key, <<unique>>) are included.
+Attributes: Attributes match the schema, with visibility set to - (private) as is typical in UML for database fields.
+Relationships:
+Users "1" -- "0..*" Posts: One-to-Many (a user can write many posts).
+Users "1" -- "0..*" Comments: One-to-Many (a user can write many comments).
+Posts "1" -- "0..*" Comments: One-to-Many (a post can have many comments).
+Posts "0..*" -- "0..*" Categories: Many-to-Many, mediated by the Post_Categories junction table (shown with #..# to indicate the association class).
+Notes: Added to clarify primary keys, foreign keys, and constraints like ON DELETE CASCADE.
+This PlantUML code can be rendered in a PlantUML-compatible tool (e.g., online editors like PlantUML Web Server) to visualize the UML class diagram for the blog database schema. Let me know if you'd like adjustments or additional details!
+@enduml

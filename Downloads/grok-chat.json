@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "Analyze this requirement: Issue #3: Add error handling for invalid inputs"
+  },
+  {
+    "role": "assistant",
+    "content": "..."
+  },
+  {
+    "role": "user",
+    "content": "Analyze this requirement: Issue #2: Implement a user login system"
+  },
+  {
+    "role": "assistant",
+    "content": "..."
+  },
+  {
+    "role": "user",
+    "content": "Analyze this requirement: Issue #1: Create a function to add two numbers"
+  },
+  {
+    "role": "assistant",
+    "content": "Let’s break down the requirement \"Issue #1: Create a function to add two numbers\" into its core components"
+  }
+]

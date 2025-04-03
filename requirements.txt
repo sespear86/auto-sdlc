@@ -1,0 +1,5 @@
+Issue #4: Design a database schema for a blog
+Issue #5: Implement a caching mechanism for API calls
+Issue #3: Add error handling for invalid inputs
+Issue #2: Implement a user login system
+Issue #1: Create a function to add two numbers

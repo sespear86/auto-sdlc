@@ -1,0 +1,1 @@
+class Users {    constructor(username) {        this.username = username;        this.users = [];    }    addUser(user) {        this.users.push(user);    }    getUsers() {        return this.users;    }}module.exports = { Users };

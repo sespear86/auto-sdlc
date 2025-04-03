@@ -1,0 +1,77 @@
+2025-04-03 01:13:22,065 - INFO - Starting code generation process
+2025-04-03 01:13:23,522 - INFO - Initialized Chrome driver
+2025-04-03 01:13:25,488 - INFO - Opened Grok Chat UI
+2025-04-03 01:13:25,852 - INFO - Generating code for Issue_1
+2025-04-03 01:13:25,973 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:13:25,974 - INFO - Sending prompt: Based on this PlantUML UML class diagram, generate JavaScript code to implement the design:
+@startum...
+2025-04-03 01:13:32,963 - INFO - Prompt submitted
+2025-04-03 01:13:34,487 - INFO - Chat message detected
+2025-04-03 01:13:43,002 - INFO - Found 1 Copy text buttons, matches or exceeds prompt count 1
+2025-04-03 01:13:46,084 - ERROR - No JavaScript code found in response: Based on the PlantUML class diagram, here's the JavaScript implementation:
+javascript
+class Error {
+    constructor(message) {
+        this.message = message;
+    }
+}
+
+class Calculator {
+    ...
+2025-04-03 01:13:50,341 - INFO - Browser closed
+2025-04-03 01:16:39,504 - INFO - Starting code generation process
+2025-04-03 01:16:40,682 - INFO - Initialized Chrome driver
+2025-04-03 01:16:41,963 - INFO - Opened Grok Chat UI
+2025-04-03 01:16:42,780 - INFO - Generating code for Issue_1
+2025-04-03 01:16:42,918 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:16:42,919 - INFO - Sending prompt: Based on this PlantUML UML class diagram, generate JavaScript code to implement the design:
+@startum...
+2025-04-03 01:16:49,669 - INFO - Prompt submitted
+2025-04-03 01:16:51,203 - INFO - Chat message detected
+2025-04-03 01:17:00,778 - INFO - Found 1 Copy text buttons, matches or exceeds prompt count 1
+2025-04-03 01:17:03,851 - INFO - Extracted code length: 1842 chars
+2025-04-03 01:17:03,852 - INFO - Saved code to D:\Documents\AutoSDLC\src\Issue_1.js
+2025-04-03 01:17:03,853 - INFO - Generating code for Issue_2
+2025-04-03 01:17:03,937 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:17:03,940 - INFO - Sending prompt: Based on this PlantUML UML class diagram, generate JavaScript code to implement the design:
+@startum...
+2025-04-03 01:17:20,528 - INFO - Prompt submitted
+2025-04-03 01:17:20,568 - INFO - Chat message detected
+2025-04-03 01:17:31,459 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 01:17:42,346 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 01:17:45,594 - INFO - Found 2 Copy text buttons, matches or exceeds prompt count 2
+2025-04-03 01:17:48,704 - INFO - Extracted code length: 7865 chars
+2025-04-03 01:17:48,705 - INFO - Saved code to D:\Documents\AutoSDLC\src\Issue_2.js
+2025-04-03 01:17:48,705 - INFO - Generating code for Issue_3
+2025-04-03 01:17:48,814 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:17:48,814 - INFO - Sending prompt: Based on this PlantUML UML class diagram, generate JavaScript code to implement the design:
+@startum...
+2025-04-03 01:18:04,083 - INFO - Prompt submitted
+2025-04-03 01:18:04,136 - INFO - Chat message detected
+2025-04-03 01:18:14,182 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 01:18:25,253 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 01:18:26,359 - INFO - Found 3 Copy text buttons, matches or exceeds prompt count 3
+2025-04-03 01:18:29,467 - INFO - Extracted code length: 6581 chars
+2025-04-03 01:18:29,468 - INFO - Saved code to D:\Documents\AutoSDLC\src\Issue_3.js
+2025-04-03 01:18:29,468 - INFO - Generating code for Issue_4
+2025-04-03 01:18:29,578 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:18:29,578 - INFO - Sending prompt: Based on this PlantUML UML class diagram, generate JavaScript code to implement the design:
+@startum...
+2025-04-03 01:18:38,870 - INFO - Prompt submitted
+2025-04-03 01:18:38,941 - INFO - Chat message detected
+2025-04-03 01:18:49,185 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 01:18:59,517 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 01:19:07,497 - INFO - Found 4 Copy text buttons, matches or exceeds prompt count 4
+2025-04-03 01:19:10,619 - INFO - Extracted code length: 7965 chars
+2025-04-03 01:19:10,620 - INFO - Saved code to D:\Documents\AutoSDLC\src\Issue_4.js
+2025-04-03 01:19:10,620 - INFO - Generating code for Issue_5
+2025-04-03 01:19:10,743 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:19:10,744 - INFO - Sending prompt: Based on this PlantUML UML class diagram, generate JavaScript code to implement the design:
+@startum...
+2025-04-03 01:19:22,174 - INFO - Prompt submitted
+2025-04-03 01:19:22,253 - INFO - Chat message detected
+2025-04-03 01:19:32,741 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 01:19:43,050 - INFO - Found 5 Copy text buttons, matches or exceeds prompt count 5
+2025-04-03 01:19:46,164 - INFO - Extracted code length: 5656 chars
+2025-04-03 01:19:46,165 - INFO - Saved code to D:\Documents\AutoSDLC\src\Issue_5.js
+2025-04-03 01:19:50,420 - INFO - Browser closed

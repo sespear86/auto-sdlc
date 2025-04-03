@@ -1,0 +1,63 @@
+2025-04-03 14:36:42,286 - INFO - Starting test execution
+2025-04-03 14:36:42,287 - INFO - Using npx.ps1 at: D:\Program Files\nodejs\npx.ps1
+2025-04-03 14:36:54,079 - INFO - Jest tests executed successfully
+2025-04-03 16:20:08,323 - INFO - Starting test execution
+2025-04-03 16:20:08,324 - INFO - Using PowerShell at: C:\Program Files\PowerShell\7\pwsh.EXE
+2025-04-03 16:20:08,324 - INFO - Using npx.ps1 at: D:\Program Files\nodejs\npx.ps1
+2025-04-03 16:20:09,215 - ERROR - Jest tests failed: JSONError: Expected ',' or '}' after property value in JSON at position 337 (line 16 column 3) while parsing '{  "dependencies": {    "bcrypt": "^5.' in D:\Documents\AutoSDLC\package.json
+    at parseJson (D:\Documents\AutoSDLC\node_modules\parse-json\index.js:29:21)
+    at readConfigFileAndSetRootDir (D:\Documents\AutoSDLC\node_modules\jest-config\build\readConfigFileAndSetRootDir.js:107:47)
+    at readInitialOptions (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:403:60)
+    at readConfig (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:147:54)
+    at readConfigs (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:424:32)
+    at runCLI (D:\Documents\AutoSDLC\node_modules\@jest\core\build\cli\index.js:152:29)
+    at Object.run (D:\Documents\AutoSDLC\node_modules\jest-cli\build\run.js:130:62)
+
+2025-04-03 16:21:19,079 - INFO - Starting test execution
+2025-04-03 16:21:19,079 - INFO - Using PowerShell at: C:\Program Files\PowerShell\7\pwsh.EXE
+2025-04-03 16:21:19,080 - INFO - Using npx.ps1 at: D:\Program Files\nodejs\npx.ps1
+2025-04-03 16:21:19,949 - ERROR - Jest tests failed: JSONError: Expected ',' or '}' after property value in JSON at position 337 (line 16 column 3) while parsing '{  "dependencies": {    "bcrypt": "^5.' in D:\Documents\AutoSDLC\package.json
+    at parseJson (D:\Documents\AutoSDLC\node_modules\parse-json\index.js:29:21)
+    at readConfigFileAndSetRootDir (D:\Documents\AutoSDLC\node_modules\jest-config\build\readConfigFileAndSetRootDir.js:107:47)
+    at readInitialOptions (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:403:60)
+    at readConfig (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:147:54)
+    at readConfigs (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:424:32)
+    at runCLI (D:\Documents\AutoSDLC\node_modules\@jest\core\build\cli\index.js:152:29)
+    at Object.run (D:\Documents\AutoSDLC\node_modules\jest-cli\build\run.js:130:62)
+
+2025-04-03 16:22:15,033 - INFO - Starting test execution
+2025-04-03 16:22:15,034 - INFO - Using PowerShell at: C:\Program Files\PowerShell\7\pwsh.EXE
+2025-04-03 16:22:15,034 - INFO - Using npx.ps1 at: D:\Program Files\nodejs\npx.ps1
+2025-04-03 16:22:15,890 - ERROR - Jest tests failed: JSONError: Expected ',' or '}' after property value in JSON at position 337 (line 16 column 3) while parsing '{  "dependencies": {    "bcrypt": "^5.' in D:\Documents\AutoSDLC\package.json
+    at parseJson (D:\Documents\AutoSDLC\node_modules\parse-json\index.js:29:21)
+    at readConfigFileAndSetRootDir (D:\Documents\AutoSDLC\node_modules\jest-config\build\readConfigFileAndSetRootDir.js:107:47)
+    at readInitialOptions (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:403:60)
+    at readConfig (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:147:54)
+    at readConfigs (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:424:32)
+    at runCLI (D:\Documents\AutoSDLC\node_modules\@jest\core\build\cli\index.js:152:29)
+    at Object.run (D:\Documents\AutoSDLC\node_modules\jest-cli\build\run.js:130:62)
+
+2025-04-03 16:23:24,380 - INFO - Starting test execution
+2025-04-03 16:23:24,381 - INFO - Using PowerShell at: C:\Program Files\PowerShell\7\pwsh.EXE
+2025-04-03 16:23:24,381 - INFO - Using npx.ps1 at: D:\Program Files\nodejs\npx.ps1
+2025-04-03 16:23:25,236 - ERROR - Jest tests failed: JSONError: Expected ',' or '}' after property value in JSON at position 337 (line 16 column 3) while parsing '{  "dependencies": {    "bcrypt": "^5.' in D:\Documents\AutoSDLC\package.json
+    at parseJson (D:\Documents\AutoSDLC\node_modules\parse-json\index.js:29:21)
+    at readConfigFileAndSetRootDir (D:\Documents\AutoSDLC\node_modules\jest-config\build\readConfigFileAndSetRootDir.js:107:47)
+    at readInitialOptions (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:403:60)
+    at readConfig (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:147:54)
+    at readConfigs (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:424:32)
+    at runCLI (D:\Documents\AutoSDLC\node_modules\@jest\core\build\cli\index.js:152:29)
+    at Object.run (D:\Documents\AutoSDLC\node_modules\jest-cli\build\run.js:130:62)
+
+2025-04-03 16:24:22,455 - INFO - Starting test execution
+2025-04-03 16:24:22,456 - INFO - Using PowerShell at: C:\Program Files\PowerShell\7\pwsh.EXE
+2025-04-03 16:24:22,456 - INFO - Using npx.ps1 at: D:\Program Files\nodejs\npx.ps1
+2025-04-03 16:24:23,341 - ERROR - Jest tests failed: JSONError: Expected ',' or '}' after property value in JSON at position 337 (line 16 column 3) while parsing '{  "dependencies": {    "bcrypt": "^5.' in D:\Documents\AutoSDLC\package.json
+    at parseJson (D:\Documents\AutoSDLC\node_modules\parse-json\index.js:29:21)
+    at readConfigFileAndSetRootDir (D:\Documents\AutoSDLC\node_modules\jest-config\build\readConfigFileAndSetRootDir.js:107:47)
+    at readInitialOptions (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:403:60)
+    at readConfig (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:147:54)
+    at readConfigs (D:\Documents\AutoSDLC\node_modules\jest-config\build\index.js:424:32)
+    at runCLI (D:\Documents\AutoSDLC\node_modules\@jest\core\build\cli\index.js:152:29)
+    at Object.run (D:\Documents\AutoSDLC\node_modules\jest-cli\build\run.js:130:62)
+

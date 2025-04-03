@@ -1,0 +1,1006 @@
+2025-04-03 01:36:03,625 - INFO - Starting test generation process
+2025-04-03 01:36:04,827 - INFO - Initialized Chrome driver
+2025-04-03 01:36:06,785 - INFO - Opened Grok Chat UI
+2025-04-03 01:36:07,615 - INFO - Generating tests for Issue_1
+2025-04-03 01:36:07,756 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:36:07,756 - INFO - Sending prompt: Generate Jest test cases for this JavaScript code:
+class Error {
+
+    constructor(message) {
+
+      ...
+2025-04-03 01:36:13,446 - INFO - Prompt submitted
+2025-04-03 01:36:14,974 - INFO - Chat message detected
+2025-04-03 01:36:25,814 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 01:36:31,191 - INFO - Found 1 Copy text buttons, matches prompt count 1
+2025-04-03 01:36:34,287 - INFO - Extracted test code length: 727 chars
+2025-04-03 01:36:34,288 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.js
+2025-04-03 01:36:34,288 - INFO - Generating tests for Issue_2
+2025-04-03 01:36:34,372 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:36:34,372 - INFO - Sending prompt: Generate Jest test cases for this JavaScript code:
+libraries (Express, JWT, bcrypt):
+
+javascript
+
+co...
+2025-04-03 01:37:10,341 - INFO - Prompt submitted
+2025-04-03 01:37:10,391 - INFO - Chat message detected
+2025-04-03 01:37:20,637 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 01:37:30,944 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 01:37:41,403 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 01:37:47,026 - INFO - Found 2 Copy text buttons, matches prompt count 2
+2025-04-03 01:37:50,141 - INFO - Extracted test code length: 8968 chars
+2025-04-03 01:37:50,142 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_2.test.js
+2025-04-03 01:37:50,142 - INFO - Generating tests for Issue_3
+2025-04-03 01:37:50,246 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:37:50,249 - INFO - Sending prompt: Generate Jest test cases for this JavaScript code:
+const express = require('express');
+
+const { body...
+2025-04-03 01:38:18,742 - INFO - Prompt submitted
+2025-04-03 01:38:18,800 - INFO - Chat message detected
+2025-04-03 01:38:29,462 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 01:38:40,259 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 01:38:51,087 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 01:38:53,405 - INFO - Found 3 Copy text buttons, matches prompt count 3
+2025-04-03 01:38:56,523 - INFO - Extracted test code length: 8110 chars
+2025-04-03 01:38:56,524 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_3.test.js
+2025-04-03 01:38:56,525 - INFO - Generating tests for Issue_4
+2025-04-03 01:38:56,639 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:38:56,640 - INFO - Sending prompt: Generate Jest test cases for this JavaScript code:
+// Users class
+
+class Users {
+
+    constructor(us...
+2025-04-03 01:39:31,057 - INFO - Prompt submitted
+2025-04-03 01:39:31,129 - INFO - Chat message detected
+2025-04-03 01:39:41,131 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 01:39:52,343 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 01:40:02,924 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 01:40:12,956 - INFO - Found 4 Copy text buttons, matches prompt count 4
+2025-04-03 01:40:16,098 - INFO - Extracted test code length: 1231 chars
+2025-04-03 01:40:16,099 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_4.test.js
+2025-04-03 01:40:16,100 - INFO - Generating tests for Issue_5
+2025-04-03 01:40:16,214 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 01:40:16,215 - INFO - Sending prompt: Generate Jest test cases for this JavaScript code:
+const express = require('express');
+
+const redis ...
+2025-04-03 01:40:41,073 - INFO - Prompt submitted
+2025-04-03 01:40:41,160 - INFO - Chat message detected
+2025-04-03 01:40:51,476 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 01:41:01,723 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 01:41:12,051 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 01:41:14,504 - INFO - Found 5 Copy text buttons, matches prompt count 5
+2025-04-03 01:41:17,653 - INFO - Extracted test code length: 7267 chars
+2025-04-03 01:41:17,654 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_5.test.js
+2025-04-03 01:41:21,919 - INFO - Browser closed
+2025-04-03 02:15:30,441 - INFO - Starting test generation process
+2025-04-03 02:15:31,913 - INFO - Initialized Chrome driver
+2025-04-03 02:15:33,331 - INFO - Opened Grok Chat UI
+2025-04-03 02:15:33,688 - INFO - Generating tests for Issue_1
+2025-04-03 02:15:33,820 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 02:15:33,821 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 02:15:39,940 - INFO - Prompt submitted
+2025-04-03 02:15:41,473 - INFO - Chat message detected
+2025-04-03 02:15:52,243 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 02:15:58,657 - INFO - Found 1 Copy text buttons, matches prompt count 1
+2025-04-03 02:16:01,748 - INFO - Extracted test code length: 533 chars
+2025-04-03 02:16:01,748 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.js
+2025-04-03 02:16:01,750 - INFO - Generating tests for Issue_2
+2025-04-03 02:16:01,822 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 02:16:01,823 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 02:16:37,536 - INFO - Prompt submitted
+2025-04-03 02:16:37,579 - INFO - Chat message detected
+2025-04-03 02:16:47,720 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 02:16:57,864 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 02:17:08,318 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 02:17:18,669 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 02:17:20,909 - INFO - Found 2 Copy text buttons, matches prompt count 2
+2025-04-03 02:17:24,036 - INFO - Extracted test code length: 11747 chars
+2025-04-03 02:17:24,037 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_2.test.js
+2025-04-03 02:17:24,038 - INFO - Generating tests for Issue_3
+2025-04-03 02:17:24,136 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 02:17:24,136 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 02:17:52,701 - INFO - Prompt submitted
+2025-04-03 02:17:52,761 - INFO - Chat message detected
+2025-04-03 02:18:03,388 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 02:18:14,189 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 02:18:25,236 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 02:18:34,612 - INFO - Found 3 Copy text buttons, matches prompt count 3
+2025-04-03 02:18:37,754 - INFO - Extracted test code length: 12708 chars
+2025-04-03 02:18:37,755 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_3.test.js
+2025-04-03 02:18:37,757 - INFO - Generating tests for Issue_4
+2025-04-03 02:18:37,871 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 02:18:37,871 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 02:19:11,647 - INFO - Prompt submitted
+2025-04-03 02:19:11,719 - INFO - Chat message detected
+2025-04-03 02:19:22,813 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 02:19:33,923 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 02:19:44,298 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 02:19:55,472 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 02:20:01,430 - INFO - Found 4 Copy text buttons, matches prompt count 4
+2025-04-03 02:20:04,576 - INFO - Extracted test code length: 8239 chars
+2025-04-03 02:20:04,577 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_4.test.js
+2025-04-03 02:20:04,579 - INFO - Generating tests for Issue_5
+2025-04-03 02:20:04,695 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 02:20:04,700 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 02:20:29,408 - INFO - Prompt submitted
+2025-04-03 02:20:29,494 - INFO - Chat message detected
+2025-04-03 02:20:39,621 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 02:20:49,711 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 02:21:00,326 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 02:21:10,459 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 02:21:11,700 - INFO - Found 5 Copy text buttons, matches prompt count 5
+2025-04-03 02:21:14,850 - INFO - Extracted test code length: 11233 chars
+2025-04-03 02:21:14,851 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_5.test.js
+2025-04-03 02:21:19,109 - INFO - Browser closed
+2025-04-03 13:41:06,023 - INFO - Starting test generation process
+2025-04-03 13:41:08,161 - INFO - Initialized Chrome driver
+2025-04-03 13:41:10,650 - INFO - Opened Grok Chat UI
+2025-04-03 13:41:11,040 - INFO - Generating tests for Issue_1
+2025-04-03 13:41:11,211 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:41:11,211 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:41:17,142 - INFO - Prompt submitted
+2025-04-03 13:41:19,187 - INFO - Chat message detected
+2025-04-03 13:41:29,990 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 13:41:34,291 - INFO - Found 1 Copy text buttons, matches prompt count 1
+2025-04-03 13:41:37,394 - INFO - Extracted test code length: 4262 chars
+2025-04-03 13:41:37,395 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.js
+2025-04-03 13:41:37,409 - INFO - Generating tests for Issue_1.test
+2025-04-03 13:41:37,487 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:41:37,487 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:41:38,643 - INFO - Prompt submitted
+2025-04-03 13:41:38,676 - INFO - Chat message detected
+2025-04-03 13:41:49,693 - INFO - Found 1 Copy text buttons, waiting for 2
+2025-04-03 13:41:57,408 - INFO - Found 2 Copy text buttons, matches prompt count 2
+2025-04-03 13:42:00,486 - INFO - Extracted test code length: 4461 chars
+2025-04-03 13:42:00,487 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.test.js
+2025-04-03 13:42:00,521 - INFO - Generating tests for Issue_2
+2025-04-03 13:42:00,597 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:42:00,597 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:42:35,771 - INFO - Prompt submitted
+2025-04-03 13:42:35,825 - INFO - Chat message detected
+2025-04-03 13:42:46,362 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 13:42:56,943 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 13:43:07,569 - INFO - Found 2 Copy text buttons, waiting for 3
+2025-04-03 13:43:08,732 - INFO - Found 3 Copy text buttons, matches prompt count 3
+2025-04-03 13:43:11,850 - INFO - Extracted test code length: 9088 chars
+2025-04-03 13:43:11,851 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_2.test.js
+2025-04-03 13:43:11,852 - INFO - Generating tests for Issue_2.test
+2025-04-03 13:43:11,957 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:43:11,957 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:43:14,093 - INFO - Prompt submitted
+2025-04-03 13:43:14,143 - INFO - Chat message detected
+2025-04-03 13:43:24,798 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 13:43:35,400 - INFO - Found 3 Copy text buttons, waiting for 4
+2025-04-03 13:43:41,284 - INFO - Found 4 Copy text buttons, matches prompt count 4
+2025-04-03 13:43:44,388 - INFO - Extracted test code length: 5297 chars
+2025-04-03 13:43:44,389 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_2.test.test.js
+2025-04-03 13:43:44,406 - INFO - Generating tests for Issue_3
+2025-04-03 13:43:44,501 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:43:44,501 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:44:12,521 - INFO - Prompt submitted
+2025-04-03 13:44:12,588 - INFO - Chat message detected
+2025-04-03 13:44:23,670 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 13:44:33,724 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 13:44:43,866 - INFO - Found 4 Copy text buttons, waiting for 5
+2025-04-03 13:44:46,266 - INFO - Found 5 Copy text buttons, matches prompt count 5
+2025-04-03 13:44:49,385 - INFO - Extracted test code length: 8954 chars
+2025-04-03 13:44:49,386 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_3.test.js
+2025-04-03 13:44:49,387 - INFO - Generating tests for Issue_3.test
+2025-04-03 13:44:49,504 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:44:49,504 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:44:50,841 - INFO - Prompt submitted
+2025-04-03 13:44:50,904 - INFO - Chat message detected
+2025-04-03 13:45:01,029 - INFO - Found 5 Copy text buttons, waiting for 6
+2025-04-03 13:45:11,139 - INFO - Found 5 Copy text buttons, waiting for 6
+2025-04-03 13:45:17,266 - INFO - Found 6 Copy text buttons, matches prompt count 6
+2025-04-03 13:45:20,382 - INFO - Extracted test code length: 6271 chars
+2025-04-03 13:45:20,383 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_3.test.test.js
+2025-04-03 13:45:20,399 - INFO - Generating tests for Issue_4
+2025-04-03 13:45:20,508 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:45:20,508 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:45:54,179 - INFO - Prompt submitted
+2025-04-03 13:45:54,259 - INFO - Chat message detected
+2025-04-03 13:46:05,127 - INFO - Found 6 Copy text buttons, waiting for 7
+2025-04-03 13:46:16,226 - INFO - Found 6 Copy text buttons, waiting for 7
+2025-04-03 13:46:26,277 - INFO - Found 6 Copy text buttons, waiting for 7
+2025-04-03 13:46:28,796 - INFO - Found 7 Copy text buttons, matches prompt count 7
+2025-04-03 13:46:31,960 - INFO - Extracted test code length: 11471 chars
+2025-04-03 13:46:31,960 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_4.test.js
+2025-04-03 13:46:31,961 - INFO - Generating tests for Issue_4.test
+2025-04-03 13:46:32,089 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:46:32,090 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:46:33,453 - INFO - Prompt submitted
+2025-04-03 13:46:33,573 - INFO - Chat message detected
+2025-04-03 13:46:44,071 - INFO - Found 7 Copy text buttons, waiting for 8
+2025-04-03 13:46:54,354 - INFO - Found 7 Copy text buttons, waiting for 8
+2025-04-03 13:46:58,138 - INFO - Found 8 Copy text buttons, matches prompt count 8
+2025-04-03 13:47:01,264 - INFO - Extracted test code length: 5517 chars
+2025-04-03 13:47:01,265 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_4.test.test.js
+2025-04-03 13:47:01,286 - INFO - Generating tests for Issue_5
+2025-04-03 13:47:01,415 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:47:01,416 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:47:25,724 - INFO - Prompt submitted
+2025-04-03 13:47:25,850 - INFO - Chat message detected
+2025-04-03 13:47:37,202 - INFO - Found 8 Copy text buttons, waiting for 9
+2025-04-03 13:47:47,220 - INFO - Found 8 Copy text buttons, waiting for 9
+2025-04-03 13:47:57,478 - INFO - Found 8 Copy text buttons, waiting for 9
+2025-04-03 13:48:01,400 - INFO - Found 9 Copy text buttons, matches prompt count 9
+2025-04-03 13:48:04,554 - INFO - Extracted test code length: 8586 chars
+2025-04-03 13:48:04,555 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_5.test.js
+2025-04-03 13:48:04,556 - INFO - Generating tests for Issue_5.test
+2025-04-03 13:48:04,705 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 13:48:04,705 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 13:48:06,713 - INFO - Prompt submitted
+2025-04-03 13:48:06,822 - INFO - Chat message detected
+2025-04-03 13:48:16,948 - INFO - Found 9 Copy text buttons, waiting for 10
+2025-04-03 13:48:28,030 - INFO - Found 9 Copy text buttons, waiting for 10
+2025-04-03 13:48:39,132 - INFO - Found 9 Copy text buttons, waiting for 10
+2025-04-03 13:48:41,782 - INFO - Found 10 Copy text buttons, matches prompt count 10
+2025-04-03 13:48:44,931 - INFO - Extracted test code length: 6415 chars
+2025-04-03 13:48:44,932 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_5.test.test.js
+2025-04-03 13:48:49,280 - INFO - Browser closed
+2025-04-03 14:01:40,905 - INFO - Starting test generation process
+2025-04-03 14:01:42,113 - INFO - Initialized Chrome driver
+2025-04-03 14:01:44,582 - INFO - Opened Grok Chat UI
+2025-04-03 14:02:05,720 - WARNING - Retry 1/3 for element //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 14:02:18,960 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E8DBBC52B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be62b7e3bb7df2793b5a519636ee37ec
+2025-04-03 14:02:23,016 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E8DBBC5310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be62b7e3bb7df2793b5a519636ee37ec
+2025-04-03 14:02:27,106 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E8DBBC52E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/be62b7e3bb7df2793b5a519636ee37ec
+2025-04-03 14:02:35,286 - INFO - Browser closed
+2025-04-03 14:10:03,354 - INFO - Starting test generation process
+2025-04-03 14:10:04,557 - INFO - Initialized Chrome driver
+2025-04-03 14:10:06,539 - INFO - Opened Grok Chat UI
+2025-04-03 14:10:27,701 - WARNING - Retry 1/3 for element //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 14:10:47,983 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002298C6A6480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/20e4a0ba390aa4285c9a6efcef4cdaa6
+2025-04-03 14:10:52,101 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002298C6A6AB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/20e4a0ba390aa4285c9a6efcef4cdaa6
+2025-04-03 14:11:10,291 - INFO - Starting test generation process
+2025-04-03 14:11:11,424 - INFO - Initialized Chrome driver
+2025-04-03 14:11:12,826 - INFO - Opened Grok Chat UI
+2025-04-03 14:11:13,189 - INFO - Generating tests for Issue_1
+2025-04-03 14:11:13,307 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:11:13,308 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:11:19,301 - INFO - Prompt submitted
+2025-04-03 14:11:20,839 - INFO - Chat message detected
+2025-04-03 14:11:31,740 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:11:37,123 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:11:40,248 - INFO - Extracted test code length: 4472 chars
+2025-04-03 14:11:44,460 - INFO - Browser closed
+2025-04-03 14:13:20,113 - INFO - Starting test generation process
+2025-04-03 14:13:21,301 - INFO - Initialized Chrome driver
+2025-04-03 14:13:23,033 - INFO - Opened Grok Chat UI
+2025-04-03 14:13:23,832 - INFO - Generating tests for Issue_1
+2025-04-03 14:13:23,970 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:13:23,971 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:13:29,700 - INFO - Prompt submitted
+2025-04-03 14:13:31,228 - INFO - Chat message detected
+2025-04-03 14:13:41,944 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:13:44,106 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:13:47,226 - INFO - Extracted test code length: 3535 chars
+2025-04-03 14:13:51,446 - INFO - Browser closed
+2025-04-03 14:18:06,366 - INFO - Starting test generation process
+2025-04-03 14:18:07,588 - INFO - Initialized Chrome driver
+2025-04-03 14:18:09,423 - INFO - Opened Grok Chat UI
+2025-04-03 14:18:10,202 - INFO - Generating tests for Issue_1
+2025-04-03 14:18:10,330 - INFO - Located and focused element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:18:10,331 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:18:16,171 - INFO - Prompt submitted
+2025-04-03 14:18:17,698 - INFO - Chat message detected
+2025-04-03 14:18:28,476 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:18:32,786 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:18:35,871 - INFO - Extracted test code length: 3742 chars
+2025-04-03 14:18:35,872 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.js
+2025-04-03 14:18:35,969 - INFO - Located and focused element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 14:18:40,279 - INFO - Browser closed
+2025-04-03 14:22:30,423 - INFO - Starting test generation process
+2025-04-03 14:22:31,641 - INFO - Initialized Chrome driver
+2025-04-03 14:22:31,842 - INFO - Opened Grok Chat UI
+2025-04-03 14:22:34,269 - INFO - Generating tests for Issue_1
+2025-04-03 14:22:34,305 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:22:34,305 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:22:40,409 - INFO - Prompt submitted
+2025-04-03 14:22:41,935 - INFO - Chat message detected
+2025-04-03 14:22:52,726 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:22:57,079 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:23:00,206 - INFO - Extracted test code length: 4074 chars
+2025-04-03 14:23:00,207 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.js
+2025-04-03 14:23:00,240 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 14:23:00,313 - INFO - Clicked New Chat button
+2025-04-03 14:23:00,402 - INFO - New chat session initialized
+2025-04-03 14:23:00,402 - INFO - Generating tests for Issue_2
+2025-04-03 14:23:00,432 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:23:00,432 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:23:35,125 - INFO - Prompt submitted
+2025-04-03 14:23:36,656 - INFO - Chat message detected
+2025-04-03 14:23:47,662 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:23:58,843 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:24:06,515 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:24:09,620 - INFO - Extracted test code length: 8378 chars
+2025-04-03 14:24:09,621 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_2.test.js
+2025-04-03 14:24:09,658 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 14:24:09,729 - INFO - Clicked New Chat button
+2025-04-03 14:24:09,831 - INFO - New chat session initialized
+2025-04-03 14:24:09,832 - INFO - Generating tests for Issue_3
+2025-04-03 14:24:09,856 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:24:09,856 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:24:36,993 - INFO - Prompt submitted
+2025-04-03 14:24:38,525 - INFO - Chat message detected
+2025-04-03 14:24:49,455 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:25:00,442 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:25:04,789 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:25:07,890 - INFO - Extracted test code length: 6752 chars
+2025-04-03 14:25:07,891 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_3.test.js
+2025-04-03 14:25:07,924 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 14:25:08,028 - INFO - Clicked New Chat button
+2025-04-03 14:25:08,104 - INFO - New chat session initialized
+2025-04-03 14:25:08,105 - INFO - Generating tests for Issue_4
+2025-04-03 14:25:08,125 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:25:08,125 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:25:40,259 - INFO - Prompt submitted
+2025-04-03 14:25:41,789 - INFO - Chat message detected
+2025-04-03 14:25:52,691 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:26:03,711 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:26:12,530 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:26:15,632 - INFO - Extracted test code length: 9577 chars
+2025-04-03 14:26:15,633 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_4.test.js
+2025-04-03 14:26:15,670 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 14:26:15,745 - INFO - Clicked New Chat button
+2025-04-03 14:26:15,846 - INFO - New chat session initialized
+2025-04-03 14:26:15,847 - INFO - Generating tests for Issue_5
+2025-04-03 14:26:15,875 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 14:26:15,875 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 14:26:38,416 - INFO - Prompt submitted
+2025-04-03 14:26:39,944 - INFO - Chat message detected
+2025-04-03 14:26:50,783 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:27:01,805 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 14:27:07,188 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 14:27:10,287 - INFO - Extracted test code length: 6647 chars
+2025-04-03 14:27:10,288 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_5.test.js
+2025-04-03 14:27:10,289 - INFO - Closing browser
+2025-04-03 14:27:14,514 - INFO - Browser closed
+2025-04-03 15:25:39,975 - INFO - Starting test generation process
+2025-04-03 15:25:41,417 - INFO - Initialized Chrome driver
+2025-04-03 15:25:43,398 - INFO - Opened Grok Chat UI
+2025-04-03 15:25:43,722 - INFO - Generating tests for Issue_1
+2025-04-03 15:25:43,752 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:25:43,752 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:25:50,636 - INFO - Prompt submitted
+2025-04-03 15:25:52,164 - INFO - Chat message detected
+2025-04-03 15:26:02,937 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 15:26:05,095 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:26:08,216 - INFO - Extracted test code length: 3775 chars
+2025-04-03 15:26:08,217 - INFO - Saved temporary test file to D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js
+2025-04-03 15:26:09,500 - WARNING - Jest validation failed for D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js: No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In D:\Documents\AutoSDLC
+  114 files checked.
+  testMatch: **/__tests__/**/*.[jt]s?(x), **/?(*.)+(spec|test).[tj]s?(x) - 1 match
+  testPathIgnorePatterns: \\node_modules\\ - 114 matches
+  testRegex:  - 0 matches
+Pattern: D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js - 0 matches
+
+2025-04-03 15:26:09,501 - WARNING - Attempt 1/3 failed for Issue_1. Error: No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In D:\Documents\AutoSDLC
+  114 files checked.
+  testMatch: **/__tests__/**/*.[jt]s?(x), **/?(*.)+(spec|test).[tj]s?(x) - 1 match
+  testPathIgnorePatterns: \\node_modules\\ - 114 matches
+  testRegex:  - 0 matches
+Pattern: D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js - 0 matches
+
+2025-04-03 15:26:09,522 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:26:09,522 - INFO - Sending prompt: 
+            The generated test code for Issue_1 has errors. Here is the error message from Jest:
+  ...
+2025-04-03 15:26:10,760 - INFO - Prompt submitted
+2025-04-03 15:26:10,795 - INFO - Chat message detected
+2025-04-03 15:26:10,888 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:26:11,940 - INFO - Closing browser
+2025-04-03 15:26:16,162 - INFO - Browser closed
+2025-04-03 15:26:16,163 - INFO - Cleaned up temporary directory
+2025-04-03 15:27:48,069 - INFO - Starting test generation process
+2025-04-03 15:27:49,228 - INFO - Initialized Chrome driver
+2025-04-03 15:27:51,138 - INFO - Opened Grok Chat UI
+2025-04-03 15:27:51,930 - INFO - Generating tests for Issue_1
+2025-04-03 15:27:51,962 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:27:51,962 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:27:58,883 - INFO - Prompt submitted
+2025-04-03 15:28:00,409 - INFO - Chat message detected
+2025-04-03 15:28:11,165 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 15:28:13,318 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:28:16,449 - INFO - Extracted test code length: 3870 chars
+2025-04-03 15:28:16,450 - INFO - Saved temporary test file to D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js
+2025-04-03 15:28:17,651 - WARNING - Jest validation failed for D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js: No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In D:\Documents\AutoSDLC\temp
+  2 files checked.
+  testMatch: D:DocumentsAutoSDLC	empIssue_1_temp.test.js - 0 matches
+  testPathIgnorePatterns: \\node_modules\\ - 2 matches
+  testRegex:  - 0 matches
+Pattern:  - 0 matches
+
+2025-04-03 15:28:17,652 - WARNING - Attempt 1/3 failed for Issue_1. Error: No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In D:\Documents\AutoSDLC\temp
+  2 files checked.
+  testMatch: D:DocumentsAutoSDLC	empIssue_1_temp.test.js - 0 matches
+  testPathIgnorePatterns: \\node_modules\\ - 2 matches
+  testRegex:  - 0 matches
+Pattern:  - 0 matches
+
+2025-04-03 15:28:17,672 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:28:17,672 - INFO - Sending prompt: 
+            The generated test code for Issue_1 has errors. Here is the error message from Jest:
+  ...
+2025-04-03 15:28:19,232 - INFO - Prompt submitted
+2025-04-03 15:28:19,265 - INFO - Chat message detected
+2025-04-03 15:28:19,345 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:28:20,451 - WARNING - Click intercepted on attempt 1/3: Message: element click intercepted: Element <button aria-label="Copy text" role="button" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l" type="button" style="justify-content: flex-start; border-color: rgba(0, 0, 0, 0); background-color: rgba(0, 0, 0, 0);">...</button> is not clickable at point (251, 16). Other element would receive the click: <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-11z020y" data-testid="mask"></div>
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62A9FFE45+26629]
+	(No symbol) [0x00007FF62A966010]
+	(No symbol) [0x00007FF62A7F931A]
+	(No symbol) [0x00007FF62A8577A9]
+	(No symbol) [0x00007FF62A855162]
+	(No symbol) [0x00007FF62A852201]
+	(No symbol) [0x00007FF62A851108]
+	(No symbol) [0x00007FF62A8428A4]
+	(No symbol) [0x00007FF62A877AAA]
+	(No symbol) [0x00007FF62A842156]
+	(No symbol) [0x00007FF62A877CC0]
+	(No symbol) [0x00007FF62A8A0169]
+	(No symbol) [0x00007FF62A877883]
+	(No symbol) [0x00007FF62A840550]
+	(No symbol) [0x00007FF62A841803]
+	GetHandleVerifier [0x00007FF62AD572BD+3529853]
+	GetHandleVerifier [0x00007FF62AD6DA22+3621858]
+	GetHandleVerifier [0x00007FF62AD624D3+3575443]
+	GetHandleVerifier [0x00007FF62AACB77A+860474]
+	(No symbol) [0x00007FF62A97088F]
+	(No symbol) [0x00007FF62A96CBC4]
+	(No symbol) [0x00007FF62A96CD66]
+	(No symbol) [0x00007FF62A95C2C9]
+	BaseThreadInitThunk [0x00007FF8DF297374+20]
+	RtlUserThreadStart [0x00007FF8E013CC91+33]
+
+2025-04-03 15:28:22,563 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:28:23,623 - WARNING - Click intercepted on attempt 2/3: Message: element click intercepted: Element <button aria-label="Copy text" role="button" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l" type="button" style="justify-content: flex-start; border-color: rgba(0, 0, 0, 0); background-color: rgba(0, 0, 0, 0);">...</button> is not clickable at point (251, 16). Other element would receive the click: <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-11z020y" data-testid="mask"></div>
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62A9FFE45+26629]
+	(No symbol) [0x00007FF62A966010]
+	(No symbol) [0x00007FF62A7F931A]
+	(No symbol) [0x00007FF62A8577A9]
+	(No symbol) [0x00007FF62A855162]
+	(No symbol) [0x00007FF62A852201]
+	(No symbol) [0x00007FF62A851108]
+	(No symbol) [0x00007FF62A8428A4]
+	(No symbol) [0x00007FF62A877AAA]
+	(No symbol) [0x00007FF62A842156]
+	(No symbol) [0x00007FF62A877CC0]
+	(No symbol) [0x00007FF62A8A0169]
+	(No symbol) [0x00007FF62A877883]
+	(No symbol) [0x00007FF62A840550]
+	(No symbol) [0x00007FF62A841803]
+	GetHandleVerifier [0x00007FF62AD572BD+3529853]
+	GetHandleVerifier [0x00007FF62AD6DA22+3621858]
+	GetHandleVerifier [0x00007FF62AD624D3+3575443]
+	GetHandleVerifier [0x00007FF62AACB77A+860474]
+	(No symbol) [0x00007FF62A97088F]
+	(No symbol) [0x00007FF62A96CBC4]
+	(No symbol) [0x00007FF62A96CD66]
+	(No symbol) [0x00007FF62A95C2C9]
+	BaseThreadInitThunk [0x00007FF8DF297374+20]
+	RtlUserThreadStart [0x00007FF8E013CC91+33]
+
+2025-04-03 15:28:25,733 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:28:26,788 - WARNING - Click intercepted on attempt 3/3: Message: element click intercepted: Element <button aria-label="Copy text" role="button" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l" type="button" style="justify-content: flex-start; border-color: rgba(0, 0, 0, 0); background-color: rgba(0, 0, 0, 0);">...</button> is not clickable at point (251, 16). Other element would receive the click: <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-11z020y" data-testid="mask"></div>
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62A9FFE45+26629]
+	(No symbol) [0x00007FF62A966010]
+	(No symbol) [0x00007FF62A7F931A]
+	(No symbol) [0x00007FF62A8577A9]
+	(No symbol) [0x00007FF62A855162]
+	(No symbol) [0x00007FF62A852201]
+	(No symbol) [0x00007FF62A851108]
+	(No symbol) [0x00007FF62A8428A4]
+	(No symbol) [0x00007FF62A877AAA]
+	(No symbol) [0x00007FF62A842156]
+	(No symbol) [0x00007FF62A877CC0]
+	(No symbol) [0x00007FF62A8A0169]
+	(No symbol) [0x00007FF62A877883]
+	(No symbol) [0x00007FF62A840550]
+	(No symbol) [0x00007FF62A841803]
+	GetHandleVerifier [0x00007FF62AD572BD+3529853]
+	GetHandleVerifier [0x00007FF62AD6DA22+3621858]
+	GetHandleVerifier [0x00007FF62AD624D3+3575443]
+	GetHandleVerifier [0x00007FF62AACB77A+860474]
+	(No symbol) [0x00007FF62A97088F]
+	(No symbol) [0x00007FF62A96CBC4]
+	(No symbol) [0x00007FF62A96CD66]
+	(No symbol) [0x00007FF62A95C2C9]
+	BaseThreadInitThunk [0x00007FF8DF297374+20]
+	RtlUserThreadStart [0x00007FF8E013CC91+33]
+
+2025-04-03 15:28:26,790 - ERROR - Failed to click Copy text button after 3 retries
+2025-04-03 15:28:26,792 - INFO - Closing browser
+2025-04-03 15:28:31,029 - INFO - Browser closed
+2025-04-03 15:28:31,030 - INFO - Cleaned up temporary directory
+2025-04-03 15:32:32,474 - INFO - Starting test generation process
+2025-04-03 15:32:33,600 - INFO - Initialized Chrome driver
+2025-04-03 15:32:36,102 - INFO - Opened Grok Chat UI
+2025-04-03 15:32:36,893 - INFO - Generating tests for Issue_1
+2025-04-03 15:32:36,929 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:32:36,930 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:32:43,877 - INFO - Prompt submitted
+2025-04-03 15:32:45,406 - INFO - Chat message detected
+2025-04-03 15:32:55,509 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 15:32:57,524 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:33:00,665 - WARNING - Empty response on attempt 1/3
+2025-04-03 15:33:00,672 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:33:03,736 - INFO - Extracted test code length: 3604 chars
+2025-04-03 15:33:03,737 - INFO - Saved temporary test file to D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js
+2025-04-03 15:33:04,704 - WARNING - Jest validation failed for D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js: Error: Invalid package config \\?\D:\Documents\AutoSDLC\package.json.
+    at Object.getNearestParentPackageJSON (node:internal/modules/package_json_reader:145:33)
+    at Object..js (node:internal/modules/cjs/loader:1694:29)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.require (node:internal/modules/cjs/loader:1311:12)
+    at require (node:internal/modules/helpers:136:16)
+    at requireOrImportModule (D:\Documents\AutoSDLC\node_modules\jest-util\build\requireOrImportModule.js:44:28)
+    at readConfigFileAndSetRootDir (D:\Documents\AutoSDLC\node_modules\jest-config\build\readConfigFileAndSetRootDir.js:112:66)
+
+2025-04-03 15:33:04,705 - WARNING - Attempt 1/3 failed for Issue_1. Error: Error: Invalid package config \\?\D:\Documents\AutoSDLC\package.json.
+    at Object.getNearestParentPackageJSON (node:internal/modules/package_json_reader:145:33)
+    at Object..js (node:internal/modules/cjs/loader:1694:29)
+    at Module.load (node:internal/modules/cjs/loader:1289:32)
+    at Function._load (node:internal/modules/cjs/loader:1108:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Module.require (node:internal/modules/cjs/loader:1311:12)
+    at require (node:internal/modules/helpers:136:16)
+    at requireOrImportModule (D:\Documents\AutoSDLC\node_modules\jest-util\build\requireOrImportModule.js:44:28)
+    at readConfigFileAndSetRootDir (D:\Documents\AutoSDLC\node_modules\jest-config\build\readConfigFileAndSetRootDir.js:112:66)
+
+2025-04-03 15:33:04,730 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:33:04,731 - INFO - Sending prompt: 
+                The generated test code for Issue_1 has errors. Here is the error message from Jest...
+2025-04-03 15:33:07,009 - INFO - Prompt submitted
+2025-04-03 15:33:07,045 - INFO - Chat message detected
+2025-04-03 15:33:07,050 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:33:08,112 - WARNING - Click intercepted on attempt 1/3: Message: element click intercepted: Element <button aria-label="Copy text" role="button" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-1loqt21 r-o7ynqc r-6416eg r-1rmnjou r-bgkhv7 r-1ny4l3l" type="button" style="justify-content: flex-start; border-color: rgba(0, 0, 0, 0);">...</button> is not clickable at point (251, 16). Other element would receive the click: <div class="css-175oi2r r-1habvwh r-13awgt0 r-1777fci">...</div>
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62A9FFE45+26629]
+	(No symbol) [0x00007FF62A966010]
+	(No symbol) [0x00007FF62A7F931A]
+	(No symbol) [0x00007FF62A8577A9]
+	(No symbol) [0x00007FF62A855162]
+	(No symbol) [0x00007FF62A852201]
+	(No symbol) [0x00007FF62A851108]
+	(No symbol) [0x00007FF62A8428A4]
+	(No symbol) [0x00007FF62A877AAA]
+	(No symbol) [0x00007FF62A842156]
+	(No symbol) [0x00007FF62A877CC0]
+	(No symbol) [0x00007FF62A8A0169]
+	(No symbol) [0x00007FF62A877883]
+	(No symbol) [0x00007FF62A840550]
+	(No symbol) [0x00007FF62A841803]
+	GetHandleVerifier [0x00007FF62AD572BD+3529853]
+	GetHandleVerifier [0x00007FF62AD6DA22+3621858]
+	GetHandleVerifier [0x00007FF62AD624D3+3575443]
+	GetHandleVerifier [0x00007FF62AACB77A+860474]
+	(No symbol) [0x00007FF62A97088F]
+	(No symbol) [0x00007FF62A96CBC4]
+	(No symbol) [0x00007FF62A96CD66]
+	(No symbol) [0x00007FF62A95C2C9]
+	BaseThreadInitThunk [0x00007FF8DF297374+20]
+	RtlUserThreadStart [0x00007FF8E013CC91+33]
+
+2025-04-03 15:33:10,121 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:33:11,198 - WARNING - Click intercepted on attempt 2/3: Message: element click intercepted: Element <button aria-label="Copy text" role="button" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-1loqt21 r-o7ynqc r-6416eg r-1rmnjou r-bgkhv7 r-1ny4l3l" type="button" style="justify-content: flex-start; border-color: rgba(0, 0, 0, 0);">...</button> is not clickable at point (251, 16). Other element would receive the click: <div class="css-175oi2r r-1habvwh r-13awgt0 r-1777fci">...</div>
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62A9FFE45+26629]
+	(No symbol) [0x00007FF62A966010]
+	(No symbol) [0x00007FF62A7F931A]
+	(No symbol) [0x00007FF62A8577A9]
+	(No symbol) [0x00007FF62A855162]
+	(No symbol) [0x00007FF62A852201]
+	(No symbol) [0x00007FF62A851108]
+	(No symbol) [0x00007FF62A8428A4]
+	(No symbol) [0x00007FF62A877AAA]
+	(No symbol) [0x00007FF62A842156]
+	(No symbol) [0x00007FF62A877CC0]
+	(No symbol) [0x00007FF62A8A0169]
+	(No symbol) [0x00007FF62A877883]
+	(No symbol) [0x00007FF62A840550]
+	(No symbol) [0x00007FF62A841803]
+	GetHandleVerifier [0x00007FF62AD572BD+3529853]
+	GetHandleVerifier [0x00007FF62AD6DA22+3621858]
+	GetHandleVerifier [0x00007FF62AD624D3+3575443]
+	GetHandleVerifier [0x00007FF62AACB77A+860474]
+	(No symbol) [0x00007FF62A97088F]
+	(No symbol) [0x00007FF62A96CBC4]
+	(No symbol) [0x00007FF62A96CD66]
+	(No symbol) [0x00007FF62A95C2C9]
+	BaseThreadInitThunk [0x00007FF8DF297374+20]
+	RtlUserThreadStart [0x00007FF8E013CC91+33]
+
+2025-04-03 15:33:13,207 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:33:14,287 - WARNING - Click intercepted on attempt 3/3: Message: element click intercepted: Element <button aria-label="Copy text" role="button" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-15ysp7h r-4wgw6l r-1loqt21 r-o7ynqc r-6416eg r-1rmnjou r-bgkhv7 r-1ny4l3l" type="button" style="justify-content: flex-start; border-color: rgba(0, 0, 0, 0);">...</button> is not clickable at point (251, 16). Other element would receive the click: <div class="css-175oi2r r-1habvwh r-13awgt0 r-1777fci">...</div>
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62A9FFE45+26629]
+	(No symbol) [0x00007FF62A966010]
+	(No symbol) [0x00007FF62A7F931A]
+	(No symbol) [0x00007FF62A8577A9]
+	(No symbol) [0x00007FF62A855162]
+	(No symbol) [0x00007FF62A852201]
+	(No symbol) [0x00007FF62A851108]
+	(No symbol) [0x00007FF62A8428A4]
+	(No symbol) [0x00007FF62A877AAA]
+	(No symbol) [0x00007FF62A842156]
+	(No symbol) [0x00007FF62A877CC0]
+	(No symbol) [0x00007FF62A8A0169]
+	(No symbol) [0x00007FF62A877883]
+	(No symbol) [0x00007FF62A840550]
+	(No symbol) [0x00007FF62A841803]
+	GetHandleVerifier [0x00007FF62AD572BD+3529853]
+	GetHandleVerifier [0x00007FF62AD6DA22+3621858]
+	GetHandleVerifier [0x00007FF62AD624D3+3575443]
+	GetHandleVerifier [0x00007FF62AACB77A+860474]
+	(No symbol) [0x00007FF62A97088F]
+	(No symbol) [0x00007FF62A96CBC4]
+	(No symbol) [0x00007FF62A96CD66]
+	(No symbol) [0x00007FF62A95C2C9]
+	BaseThreadInitThunk [0x00007FF8DF297374+20]
+	RtlUserThreadStart [0x00007FF8E013CC91+33]
+
+2025-04-03 15:33:14,289 - ERROR - Failed to click Copy text button after 3 retries
+2025-04-03 15:33:14,291 - INFO - Closing browser
+2025-04-03 15:33:18,530 - INFO - Browser closed
+2025-04-03 15:33:18,531 - INFO - Cleaned up temporary directory
+2025-04-03 15:38:35,805 - INFO - Starting test generation process
+2025-04-03 15:38:37,016 - INFO - Initialized Chrome driver
+2025-04-03 15:38:38,995 - INFO - Opened Grok Chat UI
+2025-04-03 15:38:39,775 - INFO - Generating tests for Issue_1
+2025-04-03 15:38:39,805 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:38:39,805 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:38:46,646 - INFO - Prompt submitted
+2025-04-03 15:38:49,706 - INFO - Chat message detected
+2025-04-03 15:38:59,844 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 15:39:01,854 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:39:11,986 - INFO - Closing browser
+2025-04-03 15:39:16,180 - INFO - Browser closed
+2025-04-03 15:39:16,181 - INFO - Cleaned up temporary directory
+2025-04-03 15:42:38,340 - INFO - Starting test generation process
+2025-04-03 15:42:39,539 - INFO - Initialized Chrome driver
+2025-04-03 15:42:41,983 - INFO - Opened Grok Chat UI
+2025-04-03 15:42:42,768 - INFO - Generating tests for Issue_1
+2025-04-03 15:42:42,891 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:42:42,892 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:42:49,754 - INFO - Prompt submitted
+2025-04-03 15:42:51,281 - INFO - Chat message detected
+2025-04-03 15:43:01,358 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 15:43:03,373 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:43:13,508 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:43:16,606 - WARNING - Empty response on attempt 1/5
+2025-04-03 15:43:16,610 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:43:26,747 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:43:29,778 - WARNING - Empty response on attempt 2/5
+2025-04-03 15:43:29,785 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:43:39,914 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:43:42,421 - INFO - Closing browser
+2025-04-03 15:43:48,482 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001405769A420>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/885077980160d5038e0ed26d4854c36c
+2025-04-03 15:43:52,528 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000140599FCBC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/885077980160d5038e0ed26d4854c36c
+2025-04-03 15:43:56,610 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001405A285A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/885077980160d5038e0ed26d4854c36c
+2025-04-03 15:44:04,812 - INFO - Browser closed
+2025-04-03 15:44:04,813 - INFO - Cleaned up temporary directory
+2025-04-03 15:47:40,844 - INFO - Starting test generation process
+2025-04-03 15:47:42,056 - INFO - Initialized Chrome driver
+2025-04-03 15:47:43,996 - INFO - Opened Grok Chat UI
+2025-04-03 15:47:44,787 - INFO - Generating tests for Issue_1
+2025-04-03 15:47:44,822 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:47:44,822 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:47:51,643 - INFO - Prompt submitted
+2025-04-03 15:47:53,170 - INFO - Chat message detected
+2025-04-03 15:48:03,262 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 15:48:05,276 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:48:15,412 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:48:20,518 - WARNING - Empty response on attempt 1/5
+2025-04-03 15:48:20,524 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:48:30,664 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:48:35,710 - WARNING - Empty response on attempt 2/5
+2025-04-03 15:48:35,717 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:48:45,853 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:48:50,885 - WARNING - Empty response on attempt 3/5
+2025-04-03 15:48:50,892 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:49:01,027 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:49:06,061 - WARNING - Empty response on attempt 4/5
+2025-04-03 15:49:06,068 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:49:16,203 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:49:21,239 - WARNING - Empty response on attempt 5/5
+2025-04-03 15:49:21,239 - ERROR - Max retries reached with empty response
+2025-04-03 15:49:21,240 - ERROR - Failed to retrieve response for Issue_1 on attempt 1: Failed to retrieve valid response after max retries
+2025-04-03 15:49:23,276 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:49:23,276 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:49:30,285 - INFO - Prompt submitted
+2025-04-03 15:49:30,325 - INFO - Chat message detected
+2025-04-03 15:49:30,333 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:49:40,544 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:49:45,605 - WARNING - Empty response on attempt 1/5
+2025-04-03 15:49:45,613 - INFO - Found 2 Copy text buttons, selecting the latest
+2025-04-03 15:49:55,747 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 15:50:00,786 - WARNING - Empty response on attempt 2/5
+2025-04-03 15:50:00,794 - INFO - Found 2 Copy text buttons, selecting the latest
+2025-04-03 15:50:02,111 - INFO - Closing browser
+2025-04-03 15:50:08,175 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D1F695B0E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/13b26426e634dbf933208d7c79b733d1
+2025-04-03 15:50:12,221 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D1F71B5D60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/13b26426e634dbf933208d7c79b733d1
+2025-04-03 15:50:16,262 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D1F71B5F40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/13b26426e634dbf933208d7c79b733d1
+2025-04-03 15:50:24,412 - INFO - Browser closed
+2025-04-03 15:50:24,413 - INFO - Cleaned up temporary directory
+2025-04-03 15:56:54,012 - INFO - Starting test generation process
+2025-04-03 15:56:55,225 - INFO - Initialized Chrome driver
+2025-04-03 15:56:57,169 - INFO - Opened Grok Chat UI
+2025-04-03 15:56:57,497 - INFO - Generating tests for Issue_1
+2025-04-03 15:56:57,526 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 15:56:57,526 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 15:57:04,570 - INFO - Prompt submitted
+2025-04-03 15:57:06,104 - INFO - Chat message detected
+2025-04-03 15:57:16,215 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 15:57:17,222 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 15:57:25,006 - INFO - Closing browser
+2025-04-03 15:57:31,055 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025A2B23D880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/684872c00738cc53560d75fb474eafbf
+2025-04-03 15:57:35,139 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025A2B287DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/684872c00738cc53560d75fb474eafbf
+2025-04-03 15:57:39,208 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025A2B2E40B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/684872c00738cc53560d75fb474eafbf
+2025-04-03 15:57:47,395 - INFO - Browser closed
+2025-04-03 15:57:47,396 - INFO - Cleaned up temporary directory
+2025-04-03 16:01:33,749 - INFO - Starting test generation process
+2025-04-03 16:01:34,941 - INFO - Initialized Chrome driver
+2025-04-03 16:01:36,383 - INFO - Opened Grok Chat UI
+2025-04-03 16:01:37,128 - INFO - Generating tests for Issue_1
+2025-04-03 16:01:37,160 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:01:37,161 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 16:01:44,103 - INFO - Prompt submitted
+2025-04-03 16:01:45,631 - INFO - Chat message detected
+2025-04-03 16:01:55,700 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:01:56,707 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:01:59,740 - INFO - Copy text button is visible and clickable
+2025-04-03 16:02:09,878 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 16:02:16,978 - INFO - Clipboard content after click: ...
+2025-04-03 16:02:16,978 - WARNING - Empty response on attempt 1/5
+2025-04-03 16:02:16,986 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:02:20,013 - INFO - Copy text button is visible and clickable
+2025-04-03 16:02:30,150 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 16:02:37,197 - INFO - Clipboard content after click: ...
+2025-04-03 16:02:37,197 - WARNING - Empty response on attempt 2/5
+2025-04-03 16:02:37,198 - INFO - Falling back to DOM extraction
+2025-04-03 16:02:37,224 - INFO - Extracted response from DOM: The tests will verify that the Calculator class behaves as specified in the implementation and match...
+2025-04-03 16:02:37,225 - ERROR - No Jest test code found in response: The tests will verify that the Calculator class behaves as specified in the implementation and matches the described functionality from the PlantUML design....
+2025-04-03 16:02:37,225 - ERROR - Failed to retrieve response for Issue_1 on attempt 1: No Jest test code found in response
+2025-04-03 16:02:39,258 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:02:39,259 - INFO - Sending prompt: 
+    Generate valid Jest test cases for this JavaScript code. Ensure the following:
+    - The code i...
+2025-04-03 16:02:46,235 - INFO - Prompt submitted
+2025-04-03 16:02:46,273 - INFO - Chat message detected
+2025-04-03 16:02:46,280 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:02:49,312 - INFO - Copy text button is visible and clickable
+2025-04-03 16:02:59,447 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 16:03:06,499 - INFO - Clipboard content after click: ...
+2025-04-03 16:03:06,499 - WARNING - Empty response on attempt 1/5
+2025-04-03 16:03:06,511 - INFO - Found 2 Copy text buttons, selecting the latest
+2025-04-03 16:03:09,542 - INFO - Copy text button is visible and clickable
+2025-04-03 16:03:19,683 - WARNING - Timeout waiting for overlay to disappear, proceeding with click
+2025-04-03 16:03:26,710 - INFO - Clipboard content after click: Here's a complete Jest test suite for the provided JavaScript code:
+javascript
+const { Calculator,...
+2025-04-03 16:03:26,711 - INFO - Extracted test code length: 3573 chars
+2025-04-03 16:03:26,712 - INFO - Saved temporary test file to D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js
+2025-04-03 16:03:27,962 - WARNING - Jest validation failed for D:\Documents\AutoSDLC\temp\Issue_1_temp.test.js: No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In D:\Documents\AutoSDLC\temp
+  2 files checked.
+  testMatch: D:DocumentsAutoSDLC	empIssue_1_temp.test.js - 0 matches
+  testPathIgnorePatterns: \\node_modules\\ - 2 matches
+  testRegex:  - 0 matches
+Pattern:  - 0 matches
+
+2025-04-03 16:03:27,963 - WARNING - Attempt 2/3 failed for Issue_1. Error: No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In D:\Documents\AutoSDLC\temp
+  2 files checked.
+  testMatch: D:DocumentsAutoSDLC	empIssue_1_temp.test.js - 0 matches
+  testPathIgnorePatterns: \\node_modules\\ - 2 matches
+  testRegex:  - 0 matches
+Pattern:  - 0 matches
+
+2025-04-03 16:03:27,985 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:03:27,985 - INFO - Sending prompt: 
+                The generated test code for Issue_1 has errors. Here is the error message from Jest...
+2025-04-03 16:03:29,576 - INFO - Prompt submitted
+2025-04-03 16:03:29,623 - INFO - Chat message detected
+2025-04-03 16:03:29,627 - INFO - Found 2 Copy text buttons, selecting the latest
+2025-04-03 16:03:42,926 - ERROR - Unexpected error on attempt 1/5: Message: 
+
+2025-04-03 16:03:44,935 - INFO - Found 2 Copy text buttons, selecting the latest
+2025-04-03 16:03:55,956 - INFO - Closing browser
+2025-04-03 16:04:03,741 - INFO - Starting test generation process
+2025-04-03 16:04:04,925 - INFO - Initialized Chrome driver
+2025-04-03 16:04:07,872 - INFO - Opened Grok Chat UI
+2025-04-03 16:04:08,657 - INFO - Generating tests for Issue_1
+2025-04-03 16:04:08,684 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:04:08,684 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:04:14,661 - INFO - Prompt submitted
+2025-04-03 16:04:16,198 - INFO - Chat message detected
+2025-04-03 16:04:26,984 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:04:29,142 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:04:32,272 - INFO - Extracted test code length: 3629 chars
+2025-04-03 16:04:32,273 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.js
+2025-04-03 16:04:32,305 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:04:32,380 - INFO - Clicked New Chat button
+2025-04-03 16:04:32,490 - INFO - New chat session initialized
+2025-04-03 16:04:32,491 - INFO - Generating tests for Issue_2
+2025-04-03 16:04:32,517 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:04:32,517 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:05:07,996 - INFO - Prompt submitted
+2025-04-03 16:05:09,529 - INFO - Chat message detected
+2025-04-03 16:05:20,468 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:05:30,574 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:05:40,716 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:05:41,806 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:05:44,923 - INFO - Extracted test code length: 10303 chars
+2025-04-03 16:05:44,924 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_2.test.js
+2025-04-03 16:05:44,962 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:05:45,039 - INFO - Clicked New Chat button
+2025-04-03 16:05:45,131 - INFO - New chat session initialized
+2025-04-03 16:05:45,131 - INFO - Generating tests for Issue_3
+2025-04-03 16:05:45,159 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:05:45,159 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:06:12,629 - INFO - Prompt submitted
+2025-04-03 16:06:14,161 - INFO - Chat message detected
+2025-04-03 16:06:25,122 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:06:36,082 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:06:37,169 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:06:40,271 - INFO - Extracted test code length: 7186 chars
+2025-04-03 16:06:40,272 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_3.test.js
+2025-04-03 16:06:40,312 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:06:40,383 - INFO - Clicked New Chat button
+2025-04-03 16:06:40,466 - INFO - New chat session initialized
+2025-04-03 16:06:40,467 - INFO - Generating tests for Issue_4
+2025-04-03 16:06:40,503 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:06:40,503 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:07:13,491 - INFO - Prompt submitted
+2025-04-03 16:07:15,578 - INFO - Chat message detected
+2025-04-03 16:07:26,489 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:07:36,501 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:07:41,880 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:07:44,980 - INFO - Extracted test code length: 8204 chars
+2025-04-03 16:07:44,980 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_4.test.js
+2025-04-03 16:07:45,013 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:07:45,089 - INFO - Clicked New Chat button
+2025-04-03 16:07:45,170 - INFO - New chat session initialized
+2025-04-03 16:07:45,170 - INFO - Generating tests for Issue_5
+2025-04-03 16:07:45,190 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:07:45,190 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:08:08,911 - INFO - Prompt submitted
+2025-04-03 16:08:09,929 - INFO - Chat message detected
+2025-04-03 16:08:20,784 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:08:31,792 - INFO - Found 0 Copy text buttons, waiting for at least one
+2025-04-03 16:08:37,159 - INFO - Found 1 Copy text buttons, selecting the latest
+2025-04-03 16:08:40,267 - INFO - Extracted test code length: 7300 chars
+2025-04-03 16:08:40,268 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_5.test.js
+2025-04-03 16:08:40,269 - INFO - Closing browser
+2025-04-03 16:08:44,517 - INFO - Browser closed
+2025-04-03 16:13:43,696 - INFO - Starting test generation process
+2025-04-03 16:13:44,915 - INFO - Initialized Chrome driver
+2025-04-03 16:13:46,214 - INFO - Opened Grok Chat UI
+2025-04-03 16:13:47,012 - INFO - Processing Issue_1
+2025-04-03 16:14:07,336 - WARNING - Retry 1/3 for element //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:14:29,674 - WARNING - Retry 2/3 for element //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:14:51,981 - WARNING - Retry 3/3 for element //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:14:51,981 - ERROR - Failed to locate interactable element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:14:51,982 - INFO - Closing browser
+2025-04-03 16:14:56,205 - INFO - Browser closed
+2025-04-03 16:19:37,717 - INFO - Starting test generation process
+2025-04-03 16:19:38,944 - INFO - Initialized Chrome driver
+2025-04-03 16:19:40,922 - INFO - Opened Grok Chat UI
+2025-04-03 16:19:41,723 - INFO - Processing Issue_1
+2025-04-03 16:19:41,757 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:19:41,758 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:19:47,522 - INFO - Prompt submitted
+2025-04-03 16:19:49,053 - INFO - Chat message detected
+2025-04-03 16:19:59,867 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:20:04,144 - INFO - Found 1 Copy text buttons, selecting button for prompt 1
+2025-04-03 16:20:07,265 - INFO - Extracted test code length: 4249 chars
+2025-04-03 16:20:07,266 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_1.test.js
+2025-04-03 16:20:09,261 - INFO - Tests executed successfully
+2025-04-03 16:20:09,262 - INFO - Tests for Issue_1 passed on iteration 1
+2025-04-03 16:20:09,263 - INFO - Processing Issue_2
+2025-04-03 16:20:09,286 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:20:09,354 - INFO - Clicked New Chat button
+2025-04-03 16:20:09,437 - INFO - New chat session initialized
+2025-04-03 16:20:09,455 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:20:09,456 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:20:44,225 - INFO - Prompt submitted
+2025-04-03 16:20:45,755 - INFO - Chat message detected
+2025-04-03 16:20:56,747 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:21:06,749 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:21:15,729 - INFO - Found 1 Copy text buttons, selecting button for prompt 1
+2025-04-03 16:21:18,835 - INFO - Extracted test code length: 9504 chars
+2025-04-03 16:21:18,836 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_2.test.js
+2025-04-03 16:21:19,998 - INFO - Tests executed successfully
+2025-04-03 16:21:19,998 - INFO - Tests for Issue_2 passed on iteration 1
+2025-04-03 16:21:19,999 - INFO - Processing Issue_3
+2025-04-03 16:21:20,024 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:21:20,103 - INFO - Clicked New Chat button
+2025-04-03 16:21:20,201 - INFO - New chat session initialized
+2025-04-03 16:21:20,226 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:21:20,226 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:21:47,192 - INFO - Prompt submitted
+2025-04-03 16:21:48,722 - INFO - Chat message detected
+2025-04-03 16:21:59,644 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:22:10,593 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:22:11,690 - INFO - Found 1 Copy text buttons, selecting button for prompt 1
+2025-04-03 16:22:14,785 - INFO - Extracted test code length: 6422 chars
+2025-04-03 16:22:14,786 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_3.test.js
+2025-04-03 16:22:15,936 - INFO - Tests executed successfully
+2025-04-03 16:22:15,937 - INFO - Tests for Issue_3 passed on iteration 1
+2025-04-03 16:22:15,938 - INFO - Processing Issue_4
+2025-04-03 16:22:15,963 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:22:16,032 - INFO - Clicked New Chat button
+2025-04-03 16:22:16,122 - INFO - New chat session initialized
+2025-04-03 16:22:16,151 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:22:16,151 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:22:48,733 - INFO - Prompt submitted
+2025-04-03 16:22:50,262 - INFO - Chat message detected
+2025-04-03 16:23:01,103 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:23:12,174 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:23:21,029 - INFO - Found 1 Copy text buttons, selecting button for prompt 1
+2025-04-03 16:23:24,134 - INFO - Extracted test code length: 9303 chars
+2025-04-03 16:23:24,135 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_4.test.js
+2025-04-03 16:23:25,282 - INFO - Tests executed successfully
+2025-04-03 16:23:25,283 - INFO - Tests for Issue_4 passed on iteration 1
+2025-04-03 16:23:25,284 - INFO - Processing Issue_5
+2025-04-03 16:23:25,309 - INFO - Located element: //button[contains(@aria-label, 'New Chat') or contains(normalize-space(), 'New Chat')]
+2025-04-03 16:23:25,374 - INFO - Clicked New Chat button
+2025-04-03 16:23:25,479 - INFO - New chat session initialized
+2025-04-03 16:23:25,500 - INFO - Located element: //textarea[@placeholder='Ask anything']
+2025-04-03 16:23:25,501 - INFO - Sending prompt: Generate valid Jest test cases for this JavaScript code. Ensure the code is complete, uses proper Je...
+2025-04-03 16:23:48,214 - INFO - Prompt submitted
+2025-04-03 16:23:49,754 - INFO - Chat message detected
+2025-04-03 16:24:00,617 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:24:11,520 - INFO - Found 0 Copy text buttons, waiting for 1
+2025-04-03 16:24:19,075 - INFO - Found 1 Copy text buttons, selecting button for prompt 1
+2025-04-03 16:24:22,213 - INFO - Extracted test code length: 7206 chars
+2025-04-03 16:24:22,214 - INFO - Saved test to D:\Documents\AutoSDLC\tests\Issue_5.test.js
+2025-04-03 16:24:23,388 - INFO - Tests executed successfully
+2025-04-03 16:24:23,389 - INFO - Tests for Issue_5 passed on iteration 1
+2025-04-03 16:24:23,390 - INFO - Closing browser
+2025-04-03 16:24:27,606 - INFO - Browser closed
