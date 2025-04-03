@@ -1,2 +1,1 @@
 # AutoSDLC Project
-# auto-sdlc
